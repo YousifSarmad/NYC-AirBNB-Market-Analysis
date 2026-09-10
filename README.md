@@ -24,7 +24,7 @@ Exploratory data analysis of 11 months of InsideAirbnb data (listings + reviews)
 
 ## Data
 
-Source: [InsideAirbnb](http://insideairbnb.com/get-the-data/) NYC monthly snapshots (listings + reviews). Data files are not included in this repo — download the relevant months and place them in a local `data/` folder as `listings (1).csv` ... `listings (11).csv` and the equivalent `reviews` files.
+Source: [InsideAirbnb](http://insideairbnb.com/get-the-data/) NYC monthly snapshots (listings + reviews). Data files are not included in this repo — download the relevant months and place them in a local `data/` folder as `listings (1).csv` ... `listings (11).csv` and the equivalent `reviews` files
 
 ## Stack
 
